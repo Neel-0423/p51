@@ -1,0 +1,73 @@
+h1{
+    color:#faea07;
+}
+h2{
+    color:#ffffff;
+}
+h3{
+    color:#ffffff;
+}
+p{
+    background-color: #09defa;
+}
+.header{
+    background-color: #11fa09;
+ 
+}
+.body{
+    background-color: #0f0f0f;
+   flex-wrap: wrap;
+    font-family: serif;
+}
+.grid{
+    background-color: #ff0000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.menu{
+    justify-content: flex-end;
+}
+.camel{
+    background-color: #cfbbbb;
+}
+.chameleon{
+    background-color: #cfcfcf;
+}
+.cicada{
+    background-color: #cfbbbb;
+}
+.panda{
+    background-color: #cfcfcf;
+}
+.pigeon{
+    background-color: #cfbbbb;
+}
+.teddy{
+    background-color: #cfcfcf;
+}
+.cameli{
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+.chameleoni{
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+.cicadai{
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+.pandai{
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+.pigeoni{
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+.teddyi{
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
